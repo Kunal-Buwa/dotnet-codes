@@ -1,0 +1,15 @@
+F:\IACSD\dotnet\codes\day1\HelloworldApp\bin\Debug\net7.0\HelloworldApp.exe
+F:\IACSD\dotnet\codes\day1\HelloworldApp\bin\Debug\net7.0\HelloworldApp.deps.json
+F:\IACSD\dotnet\codes\day1\HelloworldApp\bin\Debug\net7.0\HelloworldApp.runtimeconfig.json
+F:\IACSD\dotnet\codes\day1\HelloworldApp\bin\Debug\net7.0\HelloworldApp.dll
+F:\IACSD\dotnet\codes\day1\HelloworldApp\bin\Debug\net7.0\HelloworldApp.pdb
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.dll
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\refint\HelloworldApp.dll
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.pdb
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\HelloworldApp.genruntimeconfig.cache
+F:\IACSD\dotnet\codes\day1\HelloworldApp\obj\Debug\net7.0\ref\HelloworldApp.dll

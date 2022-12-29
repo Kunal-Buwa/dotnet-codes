@@ -1,0 +1,15 @@
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\day1\firstcode\bin\Debug\net7.0\firstcode.exe
+F:\IACSD\dotnet\codes\day1\firstcode\bin\Debug\net7.0\firstcode.deps.json
+F:\IACSD\dotnet\codes\day1\firstcode\bin\Debug\net7.0\firstcode.runtimeconfig.json
+F:\IACSD\dotnet\codes\day1\firstcode\bin\Debug\net7.0\firstcode.dll
+F:\IACSD\dotnet\codes\day1\firstcode\bin\Debug\net7.0\firstcode.pdb
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.dll
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\refint\firstcode.dll
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.pdb
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\firstcode.genruntimeconfig.cache
+F:\IACSD\dotnet\codes\day1\firstcode\obj\Debug\net7.0\ref\firstcode.dll
