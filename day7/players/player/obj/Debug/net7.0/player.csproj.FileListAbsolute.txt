@@ -1,0 +1,5 @@
+F:\IACSD\dotnet\codes\day7\players\player\obj\Debug\net7.0\player.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day7\players\player\obj\Debug\net7.0\player.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day7\players\player\obj\Debug\net7.0\player.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day7\players\player\obj\Debug\net7.0\player.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day7\players\player\obj\Debug\net7.0\player.csproj.CoreCompileInputs.cache

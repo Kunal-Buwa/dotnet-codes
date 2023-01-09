@@ -1,0 +1,15 @@
+F:\IACSD\dotnet\codes\day6\Accounts\bin\Debug\net7.0\Accounts.deps.json
+F:\IACSD\dotnet\codes\day6\Accounts\bin\Debug\net7.0\Accounts.dll
+F:\IACSD\dotnet\codes\day6\Accounts\bin\Debug\net7.0\Accounts.pdb
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.dll
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\refint\Accounts.dll
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.pdb
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\ref\Accounts.dll
+F:\IACSD\dotnet\codes\day6\Accounts\bin\Debug\net7.0\Government.dll
+F:\IACSD\dotnet\codes\day6\Accounts\bin\Debug\net7.0\Government.pdb
+F:\IACSD\dotnet\codes\day6\Accounts\obj\Debug\net7.0\Accounts.csproj.CopyComplete

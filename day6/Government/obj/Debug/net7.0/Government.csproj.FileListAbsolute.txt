@@ -1,0 +1,12 @@
+F:\IACSD\dotnet\codes\day6\Government\bin\Debug\net7.0\Government.deps.json
+F:\IACSD\dotnet\codes\day6\Government\bin\Debug\net7.0\Government.dll
+F:\IACSD\dotnet\codes\day6\Government\bin\Debug\net7.0\Government.pdb
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.dll
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\refint\Government.dll
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\Government.pdb
+F:\IACSD\dotnet\codes\day6\Government\obj\Debug\net7.0\ref\Government.dll

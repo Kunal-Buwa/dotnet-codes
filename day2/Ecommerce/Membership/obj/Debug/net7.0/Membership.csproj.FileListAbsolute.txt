@@ -1,0 +1,5 @@
+F:\IACSD\dotnet\codes\day2\Ecommerce\Membership\obj\Debug\net7.0\Membership.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day2\Ecommerce\Membership\obj\Debug\net7.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day2\Ecommerce\Membership\obj\Debug\net7.0\Membership.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day2\Ecommerce\Membership\obj\Debug\net7.0\Membership.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day2\Ecommerce\Membership\obj\Debug\net7.0\Membership.csproj.CoreCompileInputs.cache
