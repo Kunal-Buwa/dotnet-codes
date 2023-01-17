@@ -1,0 +1,5 @@
+F:\IACSD\dotnet\codes\dotnet-codes\day15\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day15\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\dotnet-codes\day15\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day15\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\dotnet-codes\day15\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache

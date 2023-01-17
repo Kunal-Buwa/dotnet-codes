@@ -1,0 +1,12 @@
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\bin\Debug\net7.0\BOL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\BOL.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

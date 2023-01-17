@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\IACSD\\dotnet\\codes\\day 8\\mvc\\Firstmvc\\Firstmvc.csproj",
+      "projectUniqueName": "F:\\IACSD\\dotnet\\codes\\dotnet-codes\\day8\\mvc\\Firstmvc\\Firstmvc.csproj",
       "projectName": "Firstmvc",
-      "projectPath": "F:\\IACSD\\dotnet\\codes\\day 8\\mvc\\Firstmvc\\Firstmvc.csproj",
+      "projectPath": "F:\\IACSD\\dotnet\\codes\\dotnet-codes\\day8\\mvc\\Firstmvc\\Firstmvc.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\IACSD\\dotnet\\codes\\day 8\\mvc\\Firstmvc\\obj\\",
+      "outputPath": "F:\\IACSD\\dotnet\\codes\\dotnet-codes\\day8\\mvc\\Firstmvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

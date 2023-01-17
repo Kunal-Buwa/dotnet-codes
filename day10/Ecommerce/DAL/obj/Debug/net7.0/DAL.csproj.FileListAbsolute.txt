@@ -1,0 +1,15 @@
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\bin\Debug\net7.0\DAL.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\bin\Debug\net7.0\BOL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\DAL.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day10\Ecommerce\DAL\obj\Debug\net7.0\ref\DAL.dll

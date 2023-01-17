@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dL8gp6kXGtqKcPEN6gN1HbudigaNuNbzyOrsv3s5wUu+w7225lGsPWoKzJsTNdSZ2VzEHekzaJZEMAtq+9Xs6g==",
+  "dgSpecHash": "GOgsKTUE71vx+8K1svlc6/qVxTpdmds/t8YbOz1GDbwLyVKUyJF9E4f6/xqd50H3Opeuci6ENLR8kTrXVfs1dg==",
   "success": true,
-  "projectFilePath": "F:\\IACSD\\dotnet\\codes\\day 8\\mvc\\Firstmvc\\Firstmvc.csproj",
+  "projectFilePath": "F:\\IACSD\\dotnet\\codes\\dotnet-codes\\day8\\mvc\\Firstmvc\\Firstmvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

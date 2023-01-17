@@ -1,0 +1,58 @@
+//open mysql and copy paste:
+-------------------------------------------------------------------------------------------------
+
+alter user 'root'@'localhost' identified with mysql_native_password by 'password';
+create database DBENDMODULe;
+use DBENDMODULE;
+create table Player(
+Id int,
+Name varchar(100),
+Email varchar(100),
+Address varchar(100),
+Phone varchar(100));
+insert into Player values(1,'Kunal','kunal@gmail.com','Nashik','123456789');
+insert into Player values(2,'Avadhoot','Avadhoot@gmail.com','Satara','987654321');
+insert into Player values(3,'Durga','durga.gmail.com','pathardi','456798123');
+insert into Player values(4,'Sidd','SID@gmail.com','BEED','654321987');
+insert into Player values(5,'Yash','yash@gmail.com','Gujrat','987456321');
+
+-------------------------------------------------------------------------------------------------
+
+//open create a folder and open it with cmd and copypaste:
+
+-------------------------------------------------------------------------------------------------
+dotnet new sln
+dotnet new react -o myapp
+dotnet sln add myapp/myapp.csproj
+cd myapp
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0.17
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.17
+dotnet add package MySql.EntityFrameworkCore --version 5.0.17+MySQL8.0.31
+dotnet tool install --global dotnet-ef
+dotnet ef dbcontext scaffold "server=localhost;user id=root;password=kunal@8998;database=DBENDMODULE" MySql.EntityFrameworkCore -o Models
+-------------------------------------------------------------------------------------------------
+
+//open program.cs in 
+//1st line write : 
+-------------------------------------------------------------------------------------------------
+	using myapp.Models;
+-------------------------------------------------------------------------------------------------
+6th line write:
+-------------------------------------------------------------------------------------------------
+	builder.Services.AddDbContext<DBTESTContext>();
+-------------------------------------------------------------------------------------------------
+
+//paste EmployeeController.cs in controller folder 
+
+//Replace app.js and index.js in client/src with given app.js and index.js
+
+//open client/src/setupProxy.js 
+//8th line after /weatherForecase write:
+-------------------------------------------------------------------------------------------------
+	"/api/employee"
+-------------------------------------------------------------------------------------------------
+//run app type run command in terminal
+-------------------------------------------------------------------------------------------------
+	dotnet run
+-------------------------------------------------------------------------------------------------
+
